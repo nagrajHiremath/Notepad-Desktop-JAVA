@@ -1,7 +1,7 @@
 # Notepad Desktop / JAVA
 * Notepad Desktop Application implementation in java by using SWING.
 * Created J Frame and formed design such as menu bar, menu items etc.
-# See the Screen shots 
+# Screen shots 
 * javapad sc1.png -> sample text
 * javapad sc2.png -> open new file (dialogue box)
 
